@@ -1,0 +1,11 @@
+# Pacotes de migracao tem conversas inteiras: nunca entram no repositorio
+claude-export.zip
+claude-export.tar.gz
+manifesto.json
+mapa.json
+mcp.json
+aplicar-claude-desktop.*
+backup-migracao-*/
+*-workspace/
+.DS_Store
+Thumbs.db

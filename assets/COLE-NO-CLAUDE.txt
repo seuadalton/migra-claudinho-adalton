@@ -1,0 +1,11 @@
+Oi, Claude! Estou trazendo meu Claude de outro computador para este.
+
+Junto com este arquivo veio um pacote de migração: um claude-export.zip (ou .tar.gz), um manifesto.json e uma pasta chamada skill. Ele pode estar em Downloads (às vezes dentro de outro .zip baixado do Google Drive; nesse caso, extraia), no Google Drive, no OneDrive ou num pen drive.
+
+Por favor:
+1. Ache esse pacote e leia o arquivo skill/SKILL.md que está dentro dele.
+2. Siga a parte "Na máquina nova: importar" dessa skill, do começo ao fim, começando pela simulação.
+3. Antes de eu fechar e abrir o Claude de novo, me diga também o que fazer no computador antigo (a parte "Fechando a máquina antiga").
+4. Fale comigo em linguagem simples, um passo de cada vez, e me pergunte antes de mudar qualquer configuração do computador.
+
+Se você não consegue rodar comandos neste computador (por exemplo, no chat comum do Claude Desktop, no Cowork ou no claude.ai), me diga para abrir a aba Code do Claude Desktop, ou o Claude no VS Code, e colar este texto lá.
